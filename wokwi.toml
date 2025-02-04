@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/TarefaTemporizador2.hex'
+elf = 'build/TarefaTemporizador2.elf'
